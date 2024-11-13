@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abhin G das
+- 👀 I’m interested in Coding and algorithms.
+- 🌱 I’m currently studying for my B.tech in PES, Bangalore.
+- 📫 How to reach me- abhing03@gmail.com
